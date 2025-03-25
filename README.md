@@ -1,6 +1,6 @@
-# files-web
+# files
 
-The web service for Files.
+The Files's module.
 
 ## Getting Started
 

@@ -87,7 +87,7 @@ services:
       timeout: 5s
       retries: 5
 
-  files-web:
+  files:
     build:
       context: .
       dockerfile: Dockerfile
